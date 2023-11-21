@@ -1,20 +1,20 @@
-# printing start
+# # printing start
 #print("Hello world!")
 
-# \n
+# # \n
 #print("Hello world\nHello world")
 
-# combine
+# # combine
 #print("hello" + " " + "Axel")
 
-# input
+# # input
 # input("What is your name? ")
 # print("Hello " + input("What is your name? "))
 
-# count
+# # count
 #print(len(input()))
 
-# variable
+# # variable
 # name = input("What is your name?")
 # print(name)
 
@@ -33,9 +33,9 @@
 # print("a " + a)
 # print("b " + b)
 
-# band name generator
-print("Welcome to Band name generator")
-city = input("Where is your city?\n")
-name = input("what is your pet name?\n")
-combine = "Your Band name could be " + name + " " + city
-print(combine)
+# # band name generator
+# print("Welcome to Band name generator")
+# city = input("Where is your city?\n")
+# name = input("what is your pet name?\n")
+# combine = "Your Band name could be " + name + " " + city
+# print(combine)
